@@ -2,3 +2,4 @@ Add your favorite animal below!
 Panda
 Capybara
 Dog
+Cat
