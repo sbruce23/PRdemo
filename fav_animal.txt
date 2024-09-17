@@ -3,3 +3,5 @@ Panda
 Capybara
 Dog
 Numpy
+Rabbit
+Shark
