@@ -2,5 +2,6 @@ Add your favorite animal below!
 Panda
 Capybara
 Dog
+Numpy
 Rabbit
 Shark
