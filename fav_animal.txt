@@ -1,2 +1,4 @@
 Add your favorite animal below!
+Dog
+Turtle
 fish
