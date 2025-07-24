@@ -3,7 +3,7 @@ Repo for students to practice creating a pull request after forking a repo
 
 1. First, make a fork of the GitHub repo.
 
-    a. Visit URL: [https://github.com/sbruce23/PRdemo/](https://github.com/sbruce23/PRdemo/)
+    a. Visit URL: [https://github.com/haseungyeon3/PRdemo/](https://github.com/haseungyeon3/PRdemo/)
 
     b. In the top right corner of the screen, click on the down arrow next to "Fork" and select "Create a new fork." This creates an independent copy of the GitHub repo, which is then saved as a repository under your GitHub account.
 
@@ -19,15 +19,15 @@ Repo for students to practice creating a pull request after forking a repo
     
     c. `git checkout dev` (checkout the new branch)
 
-4. Edit `fav_animal.txt` on your local machine in the directory by adding your favorite animal to the file and save it.
+4. Edit `sleephour.xlsx` on your local machine in the directory by adding your daily sleep hours to the file and save it.
 
 5. In the terminal window run:
 
-    a. `git status` (should show that `fav_animal.txt` has been modified but is not in the staging area)
+    a. `git status` (should show that `sleephour.xlsx` has been modified but is not in the staging area)
     
-    b. `git add .` (Should add `fav_animal.txt` to the staging area; run `git status` if you want to confirm this)
+    b. `git add .` (Should add `sleephour.xlsx` to the staging area; run `git status` if you want to confirm this)
     
-    c. `git commit -m 'added favorite animal <insert name here>' ` replacing `<insert name here>` with the name of your favorite animal
+    c. `git commit -m 'added daily sleep hour <insert name here>' ` replacing `<insert name here>` with yours
     
     d. `git push --set-upstream origin dev` (set up and use a classic security token if needed to be able to do this)
 
