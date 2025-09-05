@@ -1,4 +1,4 @@
 Add your favorite animal below!
 Dog
 Turtle
-Penguin
+penguin
