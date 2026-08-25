@@ -1,0 +1,1 @@
+The STAT 315 team verifies every staged change before committing it.
